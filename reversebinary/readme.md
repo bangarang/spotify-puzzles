@@ -27,5 +27,5 @@ Example:
     $ cat test | python reversebinary_big.py
 
 #### test
-test file
+Test File
 

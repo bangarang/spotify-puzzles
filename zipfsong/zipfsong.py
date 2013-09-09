@@ -1,3 +1,8 @@
+
+__author__ = "Alex Rock"
+__email__ = "hi@lxrck.com"
+__date__ = "2013-9-9"
+
 import sys
 
 def read_in():
